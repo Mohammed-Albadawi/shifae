@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "961062901099",
+    "project_id": "shefeai-app",
+    "storage_bucket": "shefeai-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961062901099:android:80a5ed5b4d6a045f82682e",
+        "android_client_info": {
+          "package_name": "com.example.firsto_ne_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961062901099-omgm14mlbbna3d4tr9t6un0t3h18ahl2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firsto_ne_app",
+            "certificate_hash": "11678d00b4df0f08cf3aae8c1d88e744fbc61857"
+          }
+        },
+        {
+          "client_id": "961062901099-sg4o9j77iqkmegmdh8mbi8q2qa8tmao1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC-EM6mp24yBA277SspYRMpS-Df5pHYAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961062901099-sg4o9j77iqkmegmdh8mbi8q2qa8tmao1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
